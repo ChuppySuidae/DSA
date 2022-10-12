@@ -1,6 +1,6 @@
 # Bomberman
 # ☘ Contributors
-- Khương Vũ Trâm Anh (21020104) -K66-C-A-CLC3.
+- [Khương Vũ Trâm Anh (21020104) -K66-C-A-CLC3.](https://github.com/tramanh1511)
 - Đinh Thị Trà My (21020049) -K66-C-A-CLC2.
 - Đỗ Thị Trang (210215450 -K66-C-A-CLC2.
 
