@@ -6,9 +6,9 @@
 
 ![image](https://user-images.githubusercontent.com/100174761/195342348-7a4adea1-0755-45b5-94e8-8d3a298187e5.png)
 
-Link github: https://github.com/tramanh1511/Bomberman.git
+- Link github: https://github.com/tramanh1511/Bomberman.git
 # ☘ Introduction
-Bài tập lớn - Bomberman (UET) - INT2204 44 - Lập trình hướng đối tượng
+- Bài tập lớn - Bomberman (UET) - INT2204 44 - Lập trình hướng đối tượng
 
 # ☘ Features
 - Người chơi tự di chuyển Bomber.
