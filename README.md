@@ -1,9 +1,7 @@
 # Bomberman
 # ☘ Contributors
 - Khương Vũ Trâm Anh (21020104) -K66-C-A-CLC3.
-
 - Đinh Thị Trà My (21020049) -K66-C-A-CLC2.
-
 - Đỗ Thị Trang (210215450 -K66-C-A-CLC2.
 
 ![image](https://user-images.githubusercontent.com/100174761/195339056-6351a743-1967-4ab9-8139-ccea326a9b6b.png)
@@ -22,16 +20,12 @@ Bài tập lớn - Bomberman (UET) - INT2204 44 - Lập trình hướng đối t
 
 # ☘Technologies
 - IntelliJ IDEA Community Edition 2022.
-
 - JavaFX vesion 19.
 
 # ☘Guide
 - Run -> Edit Configurations... -> Add new run configuration... -> Application
-
 - Main class: Main.App
-
 - Name: Main
-
 - Modify options -> Add VM options VM options: -module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.fxml
 	
 # ☘Preview
