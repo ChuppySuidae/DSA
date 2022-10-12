@@ -1,11 +1,10 @@
 # Bomberman
 # ☘ Contributors
 - [Khương Vũ Trâm Anh (21020104) -K66-C-A-CLC3.](https://github.com/tramanh1511)
-- [Đinh Thị Trà My (21020049) -K66-C-A-CLC2.] https://github.com/tramy132
-- [Đỗ Thị Trang (210215450 -K66-C-A-CLC2.] https://github.com/ChuppySuidae
+- [Đinh Thị Trà My (21020049) -K66-C-A-CLC2.](https://github.com/tramy132)
+- [Đỗ Thị Trang (210215450 -K66-C-A-CLC2.] (https://github.com/ChuppySuidae)
 
-![image](https://user-images.githubusercontent.com/100174761/195339056-6351a743-1967-4ab9-8139-ccea326a9b6b.png)
-
+![image](https://user-images.githubusercontent.com/100174761/195342348-7a4adea1-0755-45b5-94e8-8d3a298187e5.png)
 Link github: https://github.com/tramanh1511/Bomberman.git
 # ☘ Introduction
 Bài tập lớn - Bomberman (UET) - INT2204 44 - Lập trình hướng đối tượng
