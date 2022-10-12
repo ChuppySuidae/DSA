@@ -6,7 +6,7 @@ Khương Vũ Trâm Anh (21020104) -K66-C-A-CLC3.
 
 Đỗ Thị Trang (210215450 -K66-C-A-CLC2.
 
-![image](https://user-images.githubusercontent.com/100174761/195336986-e639583c-ee32-493c-9281-271ea115d3c6.png)
+![image](https://user-images.githubusercontent.com/100174761/195337888-45a2e7a6-7480-4063-897f-d26b0a48b88f.png)
 
 # ☘ Introduction
 Bài tập lớn - Bomberman (UET) - INT2204 44 - Lập trình hướng đối tượng
