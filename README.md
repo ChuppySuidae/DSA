@@ -13,20 +13,26 @@ Bài tập lớn - Bomberman (UET) - INT2204 44 - Lập trình hướng đối t
 
 # ☘ Features
 Người chơi tự di chuyển Bomber.
+
 Đặt và kích hoạt Bomb.
+
 Có các Enemy cản trở người chơi đến vị trí Portal.
+
 ...
 
 # ☘Technologies
 IntelliJ IDEA Community Edition 2022.
+
 JavaFX vesion 19.
 
 # ☘Guide
 Run -> Edit Configurations... -> Add new run configuration... -> Application
+
 Main class: Bomberman.App
+
 Name: Main
-Modify options -> Add VM options
-  VM options: -module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.fxml
+
+Modify options -> Add VM options VM options: -module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.fxml
 	
 # ☘Preview
 
