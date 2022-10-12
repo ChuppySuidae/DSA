@@ -13,29 +13,29 @@ Link github: https://github.com/tramanh1511/Bomberman.git
 Bài tập lớn - Bomberman (UET) - INT2204 44 - Lập trình hướng đối tượng
 
 # ☘ Features
-Người chơi tự di chuyển Bomber.
+- Người chơi tự di chuyển Bomber.
 
-Có thể để 2 người chơi cùng nhau.
+- Có thể để 2 người chơi cùng nhau.
 
-Đặt và kích hoạt Bomb.
+- Đặt và kích hoạt Bomb.
 
-Có các Enemy cản trở người chơi đến vị trí Portal.
+- Có các Enemy cản trở người chơi đến vị trí Portal.
 
-...
+- ...
 
 # ☘Technologies
-IntelliJ IDEA Community Edition 2022.
+- IntelliJ IDEA Community Edition 2022.
 
-JavaFX vesion 19.
+- JavaFX vesion 19.
 
 # ☘Guide
-Run -> Edit Configurations... -> Add new run configuration... -> Application
+- Run -> Edit Configurations... -> Add new run configuration... -> Application
 
-Main class: Main.App
+- Main class: Main.App
 
-Name: Main
+- Name: Main
 
-Modify options -> Add VM options VM options: -module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.fxml
+- Modify options -> Add VM options VM options: -module-path "\path\to\javafx-sdk-19\lib" --add-modules javafx.controls,javafx.fxml
 	
 # ☘Preview
 
