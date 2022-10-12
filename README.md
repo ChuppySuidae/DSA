@@ -14,13 +14,10 @@ Bài tập lớn - Bomberman (UET) - INT2204 44 - Lập trình hướng đối t
 
 # ☘ Features
 - Người chơi tự di chuyển Bomber.
-
 - Có thể để 2 người chơi cùng nhau.
-
 - Đặt và kích hoạt Bomb.
-
 - Có các Enemy cản trở người chơi đến vị trí Portal.
-
+- Có các Item cũng được giấu phía sau Brick và chỉ hiện ra khi Brick bị phá hủy.
 - ...
 
 # ☘Technologies
